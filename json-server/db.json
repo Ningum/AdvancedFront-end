@@ -1,0 +1,16 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "firstName": "Samuel Pedroso",
+            "email": "samuel-mm@hotmail.com.br",
+            "password": "852"
+        },
+        {
+            "id": 2,
+            "firstName": "Nick Fury",
+            "email": "nickF@vingadores.com.br",
+            "password": "123"
+        }
+    ]
+}
